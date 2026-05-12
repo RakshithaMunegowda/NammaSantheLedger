@@ -64,7 +64,7 @@ Unlike simple transaction logs, this app calculates the **Net Balance** per cust
 ---
 
 ## 📸 Screenshots (Output)
-<img width="361" height="775" alt="Screenshot 2026-05-07 225517" src="https://github.com/user-attachments/assets/590ffe3b-587e-40e5-a863-656086ce852a" />
+<img width="250" height="500" alt="Screenshot 2026-05-07 225517" src="https://github.com/user-attachments/assets/590ffe3b-587e-40e5-a863-656086ce852a" />
 <img width="364" height="790" alt="Screenshot 2026-05-07 225618" src="https://github.com/user-attachments/assets/a7881cc9-e82c-46d8-a22b-e94c28b38e5b" />
 <img width="371" height="788" alt="Screenshot 2026-05-12 143128" src="https://github.com/user-attachments/assets/136c2987-fa77-4446-9b0e-3193da671024" />
 <img width="363" height="783" alt="Screenshot 2026-05-07 225752" src="https://github.com/user-attachments/assets/5c08f886-207b-4983-84a8-8641186a5cee" />
