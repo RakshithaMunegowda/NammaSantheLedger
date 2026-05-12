@@ -65,13 +65,13 @@ Unlike simple transaction logs, this app calculates the **Net Balance** per cust
 
 ## 📸 Screenshots (Output)
 <img width="250" height="500" alt="Screenshot 2026-05-07 225517" src="https://github.com/user-attachments/assets/590ffe3b-587e-40e5-a863-656086ce852a" />
-<img width="364" height="790" alt="Screenshot 2026-05-07 225618" src="https://github.com/user-attachments/assets/a7881cc9-e82c-46d8-a22b-e94c28b38e5b" />
-<img width="371" height="788" alt="Screenshot 2026-05-12 143128" src="https://github.com/user-attachments/assets/136c2987-fa77-4446-9b0e-3193da671024" />
-<img width="363" height="783" alt="Screenshot 2026-05-07 225752" src="https://github.com/user-attachments/assets/5c08f886-207b-4983-84a8-8641186a5cee" />
-<img width="362" height="791" alt="Screenshot 2026-05-07 225839" src="https://github.com/user-attachments/assets/2bd3103c-b7c3-4216-b66e-5741c8470554" />
-<img width="361" height="788" alt="Screenshot 2026-05-12 144246" src="https://github.com/user-attachments/assets/b83ee8bc-49b1-4d27-a878-51330707db4e" />
-<img width="363" height="790" alt="Screenshot 2026-05-07 230954" src="https://github.com/user-attachments/assets/e6fc187b-d239-4205-84be-43775b415a24" />
-<img width="371" height="795" alt="Screenshot 2026-05-12 134440" src="https://github.com/user-attachments/assets/d99fa54f-8afe-4bba-83d7-d8914748c18e" />
+<img width="250" height="500" alt="Screenshot 2026-05-07 225618" src="https://github.com/user-attachments/assets/a7881cc9-e82c-46d8-a22b-e94c28b38e5b" />
+<img width="250" height="500" alt="Screenshot 2026-05-12 143128" src="https://github.com/user-attachments/assets/136c2987-fa77-4446-9b0e-3193da671024" />
+<img width="250" height="500" alt="Screenshot 2026-05-07 225752" src="https://github.com/user-attachments/assets/5c08f886-207b-4983-84a8-8641186a5cee" />
+<img width="250" height="500" alt="Screenshot 2026-05-07 225839" src="https://github.com/user-attachments/assets/2bd3103c-b7c3-4216-b66e-5741c8470554" />
+<img width="250" height="500" alt="Screenshot 2026-05-12 144246" src="https://github.com/user-attachments/assets/b83ee8bc-49b1-4d27-a878-51330707db4e" />
+<img width="250" height="500" alt="Screenshot 2026-05-07 230954" src="https://github.com/user-attachments/assets/e6fc187b-d239-4205-84be-43775b415a24" />
+<img width="250" height="500" alt="Screenshot 2026-05-12 134440" src="https://github.com/user-attachments/assets/d99fa54f-8afe-4bba-83d7-d8914748c18e" />
 
 ---
 
